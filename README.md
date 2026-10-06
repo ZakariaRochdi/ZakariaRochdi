@@ -1,7 +1,8 @@
 
 # 💫 About Me:
 
-I am an AI Engineer passionate about artificial intelligence, machine learning, and building innovative intelligent solutions. I have a strong interest in LLMs, RAG, Computer Vision, Data Science, and Agentic AI.\\
+I am an AI Engineer passionate about artificial intelligence, machine learning, and building innovative intelligent solutions. I have a strong interest in LLMs, RAG, Computer Vision, Data Science, and Agentic AI.
+
 Motivated, curious, and results-oriented, I enjoy solving complex problems, developing AI-powered applications, and continuously learning new technologies to create efficient, scalable, and impactful solutions.
 
 
